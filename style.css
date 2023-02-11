@@ -22,6 +22,7 @@ h1 {
   border-bottom: 3px solid black;
   padding-bottom: 20px;
 }
+
 p {
   text-transform: uppercase;
   padding-bottom: 0px;
@@ -31,4 +32,8 @@ p {
 li{
   text-transform: uppercase;
   font-size: small
+}
+
+h5{
+  text-transform: uppercase;
 }
